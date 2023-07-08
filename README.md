@@ -126,34 +126,64 @@ Set up the 'Supreme Admin' role and grant it the necessary permissions for compl
 
 1. Agent Panel > User > Add New User
 
+- Ava
+- Jackson
+
 <p align="center">
-<img src="https://github.com/AmyMcCarrell/post-install-config/assets/137266179/ ">
+<img src="https://github.com/AmyMcCarrell/post-install-config/assets/137266179/0efea3ef-1f89-4744-8d6d-1d0349d73ae2">
+
+</p>
+
+<br><br>
+
+
+<h2>Configure SLA</h2>
+
+1. Admin Panel > Manage > SLA
+
+- Sev-A (1 hour, 24/7)
+ 
+- Sev-B (4 hour, 24/7)
+  
+- Sev-C (1 hour, 24/7)
+
+   
+<p align="center">
+<img src="https://github.com/AmyMcCarrell/post-install-config/assets/137266179/f29fb889-53c4-471a-907e-f737902b9af6">
+
+</p>
+
+<p align="center">
+<img src="https://github.com/AmyMcCarrell/post-install-config/assets/137266179/830d5133-1ef7-41b9-97f6-808d59c6a4f8">
+</p>
+
+<br><br>
+
+<h2>Configure Help Topics</h2>
+
+1. Admin Panel > Manage > Help Topics
+  
+  - Business Critical Outage
+  
+  - Personal Computer Issues
+  
+  - Equipment Request
+  
+  - Password Reset
+  
+<p align="center">
+<img src="https://github.com/AmyMcCarrell/post-install-config/assets/137266179/5e9fa100-f249-47af-b0fa-4e3e883b0bf4">
+
+
+<p align="center">
+<img src="https://github.com/AmyMcCarrell/post-install-config/assets/137266179/7ff03e88-5f59-48a1-b513-5e5857a32261">
 
 </p>
 
 <br>
 
-
-<p align="center">
-<img src="https://github.com/AmyMcCarrell/post-install-config/assets/137266179/0cb28f10-dc4b-4f6b-9eaf-8ffbc65d84ab">
-
-</p>
-
-<br>
+Next tutorial, [Tickets & Ticket Lifecycle](https://github.com/AmyMcCarrell/ticket-lifecycle)
+  
 
 
-<p align="center">
-<img src="https://github.com/AmyMcCarrell/post-install-config/assets/137266179/0cb28f10-dc4b-4f6b-9eaf-8ffbc65d84ab">
-
-</p>
-
-<br>
-
-
-<p align="center">
-<img src="https://github.com/AmyMcCarrell/post-install-config/assets/137266179/0cb28f10-dc4b-4f6b-9eaf-8ffbc65d84ab">
-
-</p>
-
-<br>
 
